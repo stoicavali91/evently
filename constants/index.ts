@@ -1,6 +1,6 @@
 export const headerLinks = [
     {
-      label: 'Home',
+      label: 'Homex',
       route: '/',
     },
     {
